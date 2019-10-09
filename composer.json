@@ -1,0 +1,13 @@
+{
+    "name": "vendor/api-de-tempo",
+    "description": "Description of project ApiDeTempo.",
+    "authors": [
+        {
+            "name": "wagner",
+            "email": "wagner@dextak.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "dev-master"
+    }
+}
